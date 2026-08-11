@@ -98,7 +98,3 @@ llm-watermark-attack-detection/
     ├── research_background.md
     ├── threat_model.md
     └── experiments.md
-
-│
-├── requirements.txt
-└── README.md
